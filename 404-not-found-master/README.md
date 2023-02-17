@@ -29,9 +29,9 @@
 
 ## Overview
 
-![desktop](./404-File Not Found-desktop.png)
+![desktop](/404-File Not Found-desktop.png)
 
-![mobile](./404-File Not Found-mobile.png)
+![mobile](/404-File Not Found-mobile.png)
 
 ### Built With
 
